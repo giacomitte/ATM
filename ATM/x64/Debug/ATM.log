@@ -1,0 +1,4 @@
+﻿  ATM.cpp
+C:\Users\Nema\source\repos\ATM\ATM\ATM.cpp(34,43): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Nema\source\repos\ATM\ATM\ATM.cpp(201): warning C4715: 'Deposit': not all control paths return a value
+  ATM.vcxproj -> C:\Users\Nema\source\repos\ATM\x64\Debug\ATM.exe
